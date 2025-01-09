@@ -60,8 +60,22 @@ COnfig server
 Git : https://github.com/PRIYADHARSHINI1911/Employee_Department_microservices.git
 
 ==========================================================================================================
+Dependencies:
 
-Testing
+1)Spring Web
+2)H2
+3)JPA
+3)Lombok
+
+Eureka: 
+
+H2 Console:
+![image](https://github.com/user-attachments/assets/a90afd43-f96c-4735-a669-e241ed15b89b)
+![image](https://github.com/user-attachments/assets/a4719828-4fbb-4390-823b-6826da887101)
+
+
+
+Testing in postman
 
 ![image](https://github.com/user-attachments/assets/db5b742e-8287-48ef-8d21-560458269cd9)
 ![image](https://github.com/user-attachments/assets/c37db464-ae63-4efc-8adf-15fc874be754)
